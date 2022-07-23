@@ -8,3 +8,4 @@ This work was developed in a joint work between two curricular units: **Paradigm
 
 1. [Assignment](assignment.pdf)
 2. [Report](report.pdf)
+3. [Project](project/)

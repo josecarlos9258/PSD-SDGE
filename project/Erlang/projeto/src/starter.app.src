@@ -1,0 +1,15 @@
+{application, starter,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {starter_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[{file, "/usr/local/log"}]},
+  {modules, []},
+
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
